@@ -1,0 +1,65 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+/**********************************/
+/* 0. Variáveis
+/* 1. Estilos Gerais
+/* 2. Placa
+/* 3. Botão
+/* 4. Descrição
+/* 5. Formulario
+/**********************************/
+
+/**********************************/
+/* 0. Variáveis
+/**********************************/
+
+:root {
+    --plaque-shadow: .4rem .4rem 1.8rem #7e7e7e, -.4rem -.4rem 2rem #f8f8f8;
+	--plaque-background: linear-gradient(to bottom, #adafb3 50%, #c7c7c9 80%);
+	
+	--btn-shadow: inset .6rem .6rem .9rem #484541, inset -.4rem -.4rem 1.4rem #5c5c58;
+    --btn-filter: drop-shadow(.1rem .2rem .5rem #424242);
+
+	--clr-description: #edeff2;
+	--clr-btn: #868681;
+	--clr-youtube-red: #c00;
+	--clr-youtube-white: #fff;
+
+	--ff: "Gothic A1", sans-serif;
+}
+
+/**********************************/
+/* 1. Estilos gerais
+/**********************************/
+
+body {
+	background-image: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/retina_wood.png');
+}
+
+/**********************************/
+/* 2. Placa
+/**********************************/
+
+
+
+/**********************************/
+/* 3. Botão
+/**********************************/
+
+
+
+/**********************************/
+/* 4. Descrição
+/**********************************/
+
+
+
+/**********************************/
+/* 5. Formulario
+/**********************************/
+
+
