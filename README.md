@@ -5,7 +5,7 @@ Nesse repositório você encontra os *starter files* de um projeto feito com HTM
 Iremos construir uma réplica da placa de 100k do youtube que permite que o usuário altere o nome do canal. Além disso, esse projeto ainda possui um “easter egg” quando o usuário clica no botão, remontando aos primórdios do youtube BR.
 
 - Você pode conferir o resultado final do projeto [clicando aqui](https://placa100k.surge.sh/).
-- Assista ao passo a passo (dividido em 6 partes) clicando aqui.
+- Assista ao passo a passo (dividido em 6 partes) [clicando aqui](https://www.youtube.com/playlist?list=PL28O_hEAqjAtECyBPJ71YlXZ_RnQzd6DY).
 
 ![Preview](/preview.png)
 
